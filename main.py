@@ -29,9 +29,9 @@ from os import environ
 # import pycurl
 
 bot = Client("bot",
-             bot_token= "6785463060:AAGAoTkrfA_tWtCwfarRlUIDt-4dT9xgB3g",
-             api_id=20047839,
-             api_hash= "e635f85a4dae812a26c450c0d41276b0"
+             bot_token= "7124717297:AAGQ4AO3uBUK8Fch4ErhDsQw5A8yS4lbZjI",
+             api_id=28842408,
+             api_hash= "af9694549d2521e43db424978a39cf03"
             )
     
 @bot.on_message(filters.command(["help"]))
